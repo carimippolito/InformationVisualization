@@ -1,6 +1,6 @@
 # InformationVisualization
 
-Progetto per il corso di Information Visualization (Dipartimento di Informatica @UNISA, anno accademico 2021-22).
+Progetto per il corso di Information Visualization (Dipartimento di Informatica @UNISA, anno accademico 2021/2022).
 
 ## Introduzione
 
