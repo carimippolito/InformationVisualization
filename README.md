@@ -4,4 +4,4 @@ Progetto per il corso di Information Visualization (Dipartimento di Informatica 
 
 ## Introduzione
 
-Lo scopo del progetto è quello di realizzata un’applicazione Android per superare alcune limitazioni del progetto [LaureaTriennale-ProvaFinale](https://github.com/carimippolito/LaureaTriennale-ProvaFinale) e inserire una modalità sfida.
+Lo scopo del progetto è quello di realizzare un’applicazione Android per superare alcune limitazioni del progetto [LaureaTriennale-ProvaFinale](https://github.com/carimippolito/LaureaTriennale-ProvaFinale) e inserire una modalità sfida.
